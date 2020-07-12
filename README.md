@@ -1,4 +1,4 @@
-![Hi there](./hi_there.png)
+![Hi there](https://raw.githubusercontent.com/keesvv/keesvv/master/hi_there.png)
 -----
 
 My name is Kees van Voorthuizen — I'm a 17-years-old Dutch full stack
