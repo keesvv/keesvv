@@ -1,4 +1,5 @@
-## Hi there!
+![Hi there](./hi_there.png)
+-----
 
 My name is Kees van Voorthuizen — I'm a 17-years-old Dutch full stack
 developer and CTO & Co-Founder of [Tribecamp](https://tribecamp.com).
