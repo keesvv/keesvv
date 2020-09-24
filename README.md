@@ -44,20 +44,12 @@ Feel free to reach out! 🤓
 /><img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/chai.png" title="Chai" width="32"
 /><img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/jest.png" title="Jest" width="25"/>
 
-#### Cloud
+#### Cloud & CI/CD
 <img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/aws.png" title="Amazon AWS" width="32"
+/><img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/circleci.png" title="CircleCI" width="32"
 />
 
-#### CI/CD
-<img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/circleci.png" title="CircleCI" width="32"
-/>
-
-#### SDKs
-<img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/sendgrid.png" title="Twilio SendGrid" width="32"
-/><img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/stripe.png" title="Stripe" width="32"
-/><img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/nexmo.png" title="Nexmo" width="32"/>
-
-#### Tools
+#### Tools & SDKs
 <img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/git.png" title="Git" width="32"
 /><img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/github.png" title="GitHub" width="32"
 /><img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/gitlab.svg" title="GitLab" width="32"
@@ -69,4 +61,6 @@ Feel free to reach out! 🤓
 /><img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/vim.png" title="Vim" width="32"
 /><img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/vscode.png" title="Visual Studio Code" width="32"
 /><img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/nginx.svg" title="NGINX" width="32"
-/>
+/><img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/sendgrid.png" title="Twilio SendGrid" width="32"
+/><img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/stripe.png" title="Stripe" width="32"
+/><img src="https://raw.githubusercontent.com/keesvv/portfolio-website/master/src/assets/skills/nexmo.png" title="Nexmo" width="32"/>
