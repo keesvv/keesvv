@@ -3,13 +3,15 @@
 
 <br>
 
-- 💻 Working on [Tribecamp](https://tribecamp.com)
+- 💻 Working on:
+    - [Tribecamp](https://tribecamp.com) — a modern, easy-to-use and all-in-one secondary education platform for the Dutch market.
+    - [Bolt](https://github.com/boltchat/bolt) — a fast, lightweight, and secure chat protocol, client and server, written in Go. 
 
 - 🤓 Huge fan of F/OSS & Linux
 
 - 💭 "Do one thing, and do it well." – [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
 
-- 👨‍💻 Passion for computers and tech since I was 10 years old
+- 👨‍💻 Passion for computers and tech since I was ten
 
 - 📖 Likes learning new technologies & concepts
 
