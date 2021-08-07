@@ -4,15 +4,24 @@
 <br>
 
 - 💻 Working on:
-    - [Tribecamp](https://tribecamp.com) — a modern, easy-to-use and all-in-one secondary education platform for the Dutch market.
+    - [Tribecamp](https://tribecamp.com) — a safe, engaging and modern intranet for International Baccalaureate schools around the world.
+    - Lots of other (mostly small) projects
+
+- 🔭 Primarily using
+    - TS/JS, SCSS, Tailwind, Vue & Svelte for frontend development
+    - Go, TS/JS, NestJS, GraphQL & Prisma for backend development
 
 - 🤓 Huge fan of F/OSS & Linux
 
-- 💭 "Do one thing, and do it well." – [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
-
 - 👨‍💻 Passion for computers and tech since I was ten
 
-- 📖 Likes learning new technologies & concepts
+- 📖 I like learning new technologies & concepts
+
+<br>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=keesvv&column=8&theme=radical&no-frame=true&no-bg=true"/>
+</a>
 
 <br>
 
