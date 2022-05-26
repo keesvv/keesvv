@@ -1,20 +1,29 @@
 <h1 align="center">Hi there! 👋</h1>
-<h4 align="center">My name is Kees van Voorthuizen — I'm an 18-years-old passionate and self-taught full stack developer from The Netherlands. Feel free to reach out!</h4>
+<h4 align="center">My name is Kees van Voorthuizen — I'm an 18-years-old passionate and self-taught developer from The Netherlands. Feel free to reach out!</h4>
 
 <br>
 
 - 💻 Working on:
 
-  - Nothing in particular at the moment
+  - Lots of small projects
 
-- 🔭 Primarily using
+- 🔭 Primarily using:
 
+  - Go, Rust, C for low level development
   - TS/JS, SCSS, Tailwind, Vue, Svelte for frontend development
-  - Go, TS/JS, NestJS, GraphQL, Prisma for backend development
+  - Go, TS/JS, Node.js, NestJS, GraphQL, Prisma for backend development
+
+- 📚 Learning more about:
+
+  - I/O, Rust, low level development, digital signal processing
+
+- 💡 Want to learn more about:
+
+  - Interpreters, kernel development, Vim, x86 Assembly, networking, mathematics
 
 - 🤓 Huge fan of F/OSS, Linux and software minimalism
 
-- 👨‍💻 Passion for computers and tech since my childhood
+- 👨‍💻 Strong passion for computers and tech since I was 6 years old
 
 - 📖 I like learning new technologies & concepts
 
