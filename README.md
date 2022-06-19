@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h4 align="center">My name is Kees van Voorthuizen — I'm an 18-years-old passionate and self-taught developer from The Netherlands. Feel free to reach out!</h4>
+<h4 align="center">My name is Kees van Voorthuizen — I'm an 19-years-old passionate and self-taught developer from The Netherlands. Feel free to reach out!</h4>
 
 <br>
 
