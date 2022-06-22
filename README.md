@@ -29,4 +29,4 @@
 
 ---
 
-**My full portfolio can be found [here](https://keesvv.nl).** (under construction)
+**My full portfolio can be found [here](https://keesvv.nl).**
