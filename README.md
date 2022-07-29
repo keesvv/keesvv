@@ -5,11 +5,12 @@
 
 - 💻 Working on:
 
-  - Lots of small projects
+  - [kash](https://github.com/keesvv/kash) — software for managing personal finance
+  - Lots of other small projects
 
 - 🔭 Primarily using:
 
-  - Go, Rust, C for low level development
+  - Rust, Go, C for software development
   - TS/JS, SCSS, Tailwind, Vue, Svelte for frontend development
   - Go, TS/JS, Node.js, NestJS, GraphQL, Prisma for backend development
 
@@ -19,7 +20,8 @@
 
 - 💡 Want to learn more about:
 
-  - Interpreters, kernel development, Vim, x86 Assembly, networking, mathematics
+  - Interpreters, kernel development, functional programming,
+    Vim, networking, mathematics
 
 - 🤓 Huge fan of F/OSS, Linux and software minimalism
 
